@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "enabled": true,
+  "artifact_id": "jeronimo-pyannote-community-1",
+  "source_repo_id": "pyannote/speaker-diarization-community-1",
+  "revision": "3533c8cf8e369892e6b79ff1bf80f7b0286a54ee",
+  "archive_name": "jeronimo-pyannote-community-1-3533c8cf8e36.zip",
+  "archive_sha256": "c6c33cbcf32c5b847deb816c5b57a9bd5f73c45fbf2236b9e791b0ab869ddcf8",
+  "archive_size_bytes": 31278533,
+  "payload_dir": "pyannote-speaker-diarization-community-1",
+  "drive_file_id": "1Xw1xgcXr5xSnUtzckp-UbgtkZwiypyDZ",
+  "drive_share_url": "https://drive.google.com/file/d/1Xw1xgcXr5xSnUtzckp-UbgtkZwiypyDZ/view?usp=drivesdk"
+}

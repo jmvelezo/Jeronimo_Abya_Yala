@@ -1,0 +1,5 @@
+# Runtime de diarización validado como referencia del proyecto.
+# Torch/torchaudio/torchvision se instalan antes desde el índice CPU o CUDA 12.8.
+whisperx==3.8.6
+pyannote-audio==4.0.4
+torchcodec==0.7.0
